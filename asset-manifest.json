@@ -1,15 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.90135c47.css",
-    "main.js": "/static/js/main.7a1893e7.js",
+    "main.css": "/static/css/main.c90c83d4.css",
+    "main.js": "/static/js/main.4c058be9.js",
     "static/js/787.cef26e57.chunk.js": "/static/js/787.cef26e57.chunk.js",
+    "static/media/copafifa.JPG": "/static/media/copafifa.16b876630ec233fbd3d1.JPG",
+    "static/media/timelapse2.gif": "/static/media/timelapse2.1f37a2f7d479e7e40a48.gif",
+    "static/media/imprimiendo3d.gif": "/static/media/imprimiendo3d.0a0d8623c0162be737a3.gif",
+    "static/media/Thor.jpg": "/static/media/Thor.fb12bc1f48fff410bcf1.jpg",
+    "static/media/capaxcapa.gif": "/static/media/capaxcapa.e6467df5efb48930ea2b.gif",
+    "static/media/trofeoscumbiaton.JPG": "/static/media/trofeoscumbiaton.2ca9acd4b11f305f091f.JPG",
+    "static/media/florksmuchos.jpg": "/static/media/florksmuchos.1f4174e600b2188de745.jpg",
+    "static/media/macetapokebola.JPG": "/static/media/macetapokebola.faf53e881d6643ef7232.JPG",
+    "static/media/pla1.jpg": "/static/media/pla1.04de26a25ffd0fe7f548.jpg",
+    "static/media/curascr2.jpg": "/static/media/curascr2.118941342c9c9eb7f94a.jpg",
+    "static/media/bulbasaur.JPG": "/static/media/bulbasaur.bd6dbad351aeb27e38f3.JPG",
+    "static/media/petg.jpg": "/static/media/petg.db744c2748e48ff905ed.jpg",
+    "static/media/charmander.JPG": "/static/media/charmander.323b0f0fe5915e10194f.JPG",
+    "static/media/curascr.jpg": "/static/media/curascr.f5e864c426cc49ad150f.jpg",
+    "static/media/curascr3.jpg": "/static/media/curascr3.e31dfd7d9a8030ce243e.jpg",
+    "static/media/macetagroot.jpg": "/static/media/macetagroot.b68010776b37e33644eb.jpg",
+    "static/media/curascr4.jpg": "/static/media/curascr4.20bf8300305437cc7231.jpg",
+    "static/media/borabora.jpeg": "/static/media/borabora.3e298390ada6ac599d20.jpeg",
+    "static/media/otto.jpeg": "/static/media/otto.94da6eef3529e903f3e7.jpeg",
+    "static/media/charizard.jpeg": "/static/media/charizard.52ff2ca369752df14c79.jpeg",
+    "static/media/comoimprimev2.jpg": "/static/media/comoimprimev2.e65ce2ea2cf64f295744.jpg",
+    "static/media/abs.webp": "/static/media/abs.40485d58a1f4c7556916.webp",
+    "static/media/flex1.jpg": "/static/media/flex1.95e8660e132c314a2bbe.jpg",
+    "static/media/llaveros.webp": "/static/media/llaveros.797569960abd5db14284.webp",
+    "static/media/fondobanner.png": "/static/media/fondobanner.85be6f3a3121e5dbe5e4.png",
     "index.html": "/index.html",
-    "main.90135c47.css.map": "/static/css/main.90135c47.css.map",
-    "main.7a1893e7.js.map": "/static/js/main.7a1893e7.js.map",
+    "main.c90c83d4.css.map": "/static/css/main.c90c83d4.css.map",
+    "main.4c058be9.js.map": "/static/js/main.4c058be9.js.map",
     "787.cef26e57.chunk.js.map": "/static/js/787.cef26e57.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90135c47.css",
-    "static/js/main.7a1893e7.js"
+    "static/css/main.c90c83d4.css",
+    "static/js/main.4c058be9.js"
   ]
 }
